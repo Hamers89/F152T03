@@ -1,0 +1,23 @@
+.grupo1{
+    display:block;
+    margin-bottom:10xp; /*espacio entre imagenes*/
+    width: 200px;
+    height:200xp;
+    border: 2xp solid blue;
+    
+}
+
+#imagen4{
+    border: 8px solid darkred; 
+    margin-right: 10px;
+}
+
+#imagen5{
+    border: 8px solid darkred; 
+    margin-right: 10px;
+}
+
+#imagen6{
+    border: 8px solid darkred; 
+    margin-right: 10px;
+}
