@@ -1,0 +1,13 @@
+.contenedor {
+    width: 300px;
+    margin: 30px auto;
+}
+
+span {
+    display: block;
+    background-color: orange;
+    padding: 15px;
+    border: 8px solid black;
+    margin-bottom: 10px;
+    font-size: 18px;
+}

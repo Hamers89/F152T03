@@ -1,23 +1,30 @@
-.grupo1{
-    display:block;
-    margin-bottom:10xp; /*espacio entre imagenes*/
-    width: 200px;
-    height:200xp;
-    border: 2xp solid blue;
+body {
+    background-color: black;
     
 }
 
-#imagen4{
-    border: 8px solid darkred; 
+#imagen1,
+#imagen2,
+#imagen3 {
+    display: block;
+    margin-bottom: 10px;
+    /*espacio entre imagenes*/
+    width: auto;
+    height: auto;
+    border: 2px solid yellow;
+}
+
+#imagen4 {
+    border: 8px solid darkred;
     margin-right: 10px;
 }
 
-#imagen5{
-    border: 8px solid darkred; 
+#imagen5 {
+    border: 8px solid darkred;
     margin-right: 10px;
 }
 
-#imagen6{
-    border: 8px solid darkred; 
+#imagen6 {
+    border: 8px solid darkred;
     margin-right: 10px;
 }

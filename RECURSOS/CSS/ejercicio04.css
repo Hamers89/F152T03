@@ -1,0 +1,15 @@
+* {
+    border: 2px solid black;
+}
+
+.ele1 {
+    background-color:darkred;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.ele2 {
+    background-color: darkkhaki;
+    padding: 40px;
+}
